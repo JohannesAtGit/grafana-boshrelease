@@ -261,3 +261,19 @@ properties:
 
   grafana.external_image_storage.webdav.password:
     description: "WebDAV password."
+
+  grafana.smtp.enabled:
+    description: "Enable Grafana E-Mail alert"
+
+  grafana.smtp.host:
+    description: "Enable Grafana E-Mail alert"
+
+  grafana.smtp.port:
+    description: "Enable Grafana E-Mail alert"
+
+  grafana.smtp.user:
+    description: "Enable Grafana E-Mail alert"
+
+  grafana.smtp.password:
+    description: "Enable Grafana E-Mail alert"
+
